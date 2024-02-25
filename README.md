@@ -1,6 +1,6 @@
 
 # Job Linsting Application
-## For Backend 
+
 
 JobListing App
 
@@ -57,6 +57,15 @@ Go to the project directory
 
 ```bash
   cd JobPost Backend/joblisting/
+```
+
+Configure Application.properties file according to your Database
+
+```bash
+spring.data.mongodb.uri= # uri of mongoDB cluster 
+spring.data.mongodb.database=   Joblisting <--database name
+logging.level.org.springframework=INFO
+springdoc.api-docs.path=/api-docs
 ```
 
 Install dependencies
