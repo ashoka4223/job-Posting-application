@@ -68,7 +68,7 @@ Go to MongoDB Atlas and find this url string in Overview and tyen Connect Curren
 After that 
 
 
-<img width="815" alt="MongoDB" src="https://github.com/ashoka4223/job-Posting-application/assets/112795808/c4e4b921-66f0-4e95-9084-82cd56a82c91">
+<img height="200" alt="MongoDB" src="https://github.com/ashoka4223/job-Posting-application/assets/112795808/c4e4b921-66f0-4e95-9084-82cd56a82c91">
 
 
 ```bash
