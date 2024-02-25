@@ -61,6 +61,10 @@ Go to the project directory
 
 Configure Application.properties file according to your Database
 
+![Screenshot (227)](https://github.com/ashoka4223/job-Posting-application/assets/112795808/906d3fbe-c5ac-4f59-96e8-cd649db9704a)
+
+
+
 ```bash
 spring.data.mongodb.uri= # uri of mongoDB cluster 
 spring.data.mongodb.database=   Joblisting <--database name
