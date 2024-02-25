@@ -61,8 +61,13 @@ Go to the project directory
 
 Configure Application.properties file according to your Database
 
-![Screenshot (227)](https://github.com/ashoka4223/job-Posting-application/assets/112795808/906d3fbe-c5ac-4f59-96e8-cd649db9704a)
+Go to MongoDB Atlas and find this url string in Overview and tyen Connect Current IP address.
 
+<img width="815" alt="Connect" src="https://github.com/ashoka4223/job-Posting-application/assets/112795808/295b1a9e-230a-42c8-a550-d4a4a20d701f">
+
+
+
+![Screenshot (227)](https://github.com/ashoka4223/job-Posting-application/assets/112795808/f6ca7cd7-4e68-4741-9c48-5dcee7c105af)
 
 
 ```bash
